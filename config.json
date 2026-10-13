@@ -1,0 +1,58 @@
+{
+  "reportChannelId": "1549024923014406224",
+  "categoryName": "LMP • DIARIES",
+  "categoryId": "1549020410471780353",
+  "reminderIntervalMinutes": 360,
+  "embedColor": "#D4AF37",
+  "submissionChannels": [
+    {
+      "key": "creatorStart", "name": "Creator Start", "id": "1543651101880877118", "title": "Creator Start • Attendance",
+      "description": "The creator journey of the players, they submit add some details",
+      "details": ["Old Account — provide the name of your old account.", "Creator Start Date — the date you officially started your creator journey.", "Rejoining Date — the date you rejoined the creator community. If not applicable, write N/A."],
+      "example": "Old Account: IrisSseries\nCreator Start: December 25, 1969\nRejoining: January 1, 1970",
+      "reminder": "Please make sure all information is accurate before submitting."
+    },
+    {
+      "key": "memberStart", "name": "Member Start", "id": "1549736705312170094", "title": "Member Start • Attendance",
+      "description": "Submit your LMP name and the date you officially joined the LMP community.",
+      "details": ["LMP Name — your account name should include LMP.", "Joining Date — the date you officially joined the LMP community."],
+      "example": "LMP Name: LMP.sharmaine\nJoining Date: August 12, 2026",
+      "reminder": "Please make sure all information is accurate before submitting."
+    },
+    {
+      "key": "hokProfile", "name": "Honor of kings profile", "id": "1549021705555681460", "title": "HOK Profile • Attendance",
+      "description": "Submit a screenshot of your own Honor of Kings account profile.",
+      "details": ["Attach a screenshot of your own Honor of Kings profile.", "Image attachment required; text-only messages do not count."],
+      "example": "Attach a screenshot of your own Honor of Kings profile.",
+      "reminder": "Only screenshot only."
+    },
+    {
+      "key": "socialAccounts", "name": "Social Media Accounts", "id": "1549021348205039637", "title": "Accounts Profile • Attendance",
+      "description": "Submit your social media account names, platforms, and corresponding screenshots.",
+      "details": ["Account Name — the account name.", "Social Media — platform name, such as TikTok, Facebook, or YouTube.", "If you have multiple accounts, include all of them in one message with their corresponding screenshots."],
+      "example": "Account Name: Airisu\nSocial Media: Facebook\n\nAccount Name: LMP.ꪖirisʊ≽\nSocial Media: Tiktok\n\nAttach the corresponding screenshot(s) to this same message.",
+      "reminder": "If you have multiple accounts, include them all in one submission with their corresponding screenshots."
+    },
+    {
+      "key": "socialLinks", "name": "Social Media Links", "id": "1549022964479954954", "title": "Accounts Link • Attendance",
+      "description": "Submit the links to your social media accounts.",
+      "details": ["Submit links only.", "If you have multiple accounts, include all their links in one message."],
+      "example": "https://example.com/account1\nhttps://example.com/account2",
+      "reminder": "Submit only your social media account links. If you have multiple accounts, include all links in one submission."
+    },
+    {
+      "key": "socialUsernames", "name": "Social Media Username", "id": "1549021535602217042", "title": "Accounts Username • Attendance",
+      "description": "Submit the usernames for your social media accounts.",
+      "details": ["Social Media — platform name, such as TikTok, Facebook, or YouTube.", "Username — your username on that platform.", "If you have multiple accounts, include all usernames with their corresponding platforms in one message."],
+      "example": "Social Media: Tiktok\nUsername: @airisu_des\n\nSocial Media: Facebook\nUsername: @airisudes",
+      "reminder": "If you have multiple social media accounts, include all usernames with their corresponding platforms in one submission."
+    },
+    {
+      "key": "signatureHero", "name": "Main Hero", "id": "1549022358570795079", "title": "Signature Hero • Attendance",
+      "description": "Submit your signature hero information and an image of your main hero for your banner.",
+      "details": ["Hero Name — the name of your signature hero.", "Request — describe the changes you want to your hero picture. If you do not want changes, write N/A.", "Hero Image — attach an image of your hero using the classic/default hero model only. Skins are not allowed."],
+      "example": "Hero Name: Kong Kong'er\nRequest: Add some devil smiles or ego looks.\n\nAttach the classic/default hero image to this same message.",
+      "reminder": "Only default hero. No skins allowed; classic hero model only."
+    }
+  ]
+}
